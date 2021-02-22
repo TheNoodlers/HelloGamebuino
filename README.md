@@ -10,7 +10,7 @@ without needing the Arduino IDE when using Linux or MacOS.
 This git repo uses submodules, so to clone a copy use...
 
 ```
-git clone --recurse-submodules https://github.com/AnotherJohnH/HelloGamebuino.git
+git clone --recurse-submodules https://github.com/TheNoodlers/HelloGamebuino.git
 ```
 
 ### Build Dependencies
